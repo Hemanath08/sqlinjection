@@ -30,18 +30,22 @@ Change Your IP Where the <192.168.43.145> Enter Your IP Addr
 - Identify IP address using ifconfig in Metasploitable2
 
 
+<img width="1918" height="1018" alt="Screenshot 2025-10-10 173441" src="https://github.com/user-attachments/assets/696ebb64-fe7b-4afe-9fac-f50d8cbc4fa7" />
 
 
 - Use the above ip address to access the apache webserver of Metasploitable2 from kali linux. In Kali Linux use the ip address in a web browser.
 
+<img width="1919" height="933" alt="Screenshot 2025-10-10 173922" src="https://github.com/user-attachments/assets/b0d44b94-4db4-4816-bcf0-6d058115eaf1" />
 
 
 - Select Multidae from the menu listed as shown above. You will get the page as displayed below:
 
+<img width="1919" height="926" alt="Screenshot 2025-10-10 173942" src="https://github.com/user-attachments/assets/bc6d3073-5c38-44a9-84ee-5179af8750be" />
 
 
 - Click on the menu Login/Register and register for an account
 
+<img width="1919" height="928" alt="Screenshot 2025-10-10 173956" src="https://github.com/user-attachments/assets/15f9a314-dbd9-4dc2-b98f-aeb6855a864d" />
 
 - Click on the link “Please register here”
 
